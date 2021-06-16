@@ -55,3 +55,5 @@ Within these test modules, you can save all the “sanity checks” of your func
 - Having a more experienced colleague review your code and give you tips for ways to improve is priceless.
 
 To make it easier for those reviewing your code, try to keep the amount of new code small. Small, frequent code reviews work well. Infrequent, huge code reviews are terrible. No one wants to be sent 1,000s of lines of code to have to review. These reviews tend to provide worse feedback because the person can’t take the time necessary to really understand that much code at once.
+
+Original article - https://towardsdatascience.com/data-scientists-you-need-to-know-how-to-code-9142b2dc74e8
